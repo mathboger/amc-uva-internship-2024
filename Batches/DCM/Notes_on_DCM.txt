@@ -1,0 +1,20 @@
+Nucleus Accumbens added as region 1
+Caudate added as region 2
+Putamen added as region 3
+
+Echo times (tried different ones to account for multi-echo scanning; in ms):
+TE1 9
+TE2 26.4
+TE3 30.6
+TE4 43.8
+
+Models (stipulated connectivities based on Piray's work; numbers in the description refer to the ROIs):
+A1 1 -> 2; 2 -> 3
+A2 1 <-> 2; 2 <-> 3
+A3 1 -> 2; 2 -> 3; 1 -> 3
+A4 full
+A5 1 -> 2; 1-> 3
+
+Naming convention of DCM files
+DCM_(participant ID)_(model type)_(echo time).mat
+Example: DCM_1_A1_TE1.mat
