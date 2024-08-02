@@ -1,0 +1,19 @@
+In demographics folder,
+The CSV files contain the results of the cleaned data. The full data is not disclosed for privacy reasons.
+In motion parameters folder,
+First dataset points to motion parameters and plots of each subject
+
+In total, there are:
+37 GD
+40 HC
+
+HC participants that were randomly selected not to be part of
+the analysis for balance:
+[4108, 4136, 2302]
+
+The participants were added to the GLM in the following order:
+- Monja's GD patients in ascending order (1-15)
+- Tim's GD patients in ascending order (16-37)
+- Monja's HC in ascending order (38-72)
+- Tim's HC in ascending order (73-74)
+These numbers appear in the file names of the extracted VoIs
