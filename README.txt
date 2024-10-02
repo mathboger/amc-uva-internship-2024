@@ -4,7 +4,7 @@ The pre-registration of the study can be found in:
 osf.io/mc4jt
 
 The final report can be found in:
-<add link to GitHub>
+https://github.com/mathboger/amc-uva-internship-2024
 
 In summary, the study aimed to evaluate if there is a difference in endogenous connectivity from the ventral to the dorsal striatum in patients with GD compared to HC. We make use of SPM to run DCM fitting and PEB analysis.
 
